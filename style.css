@@ -29,7 +29,7 @@
   }
   
   body {
-    background-image: url('/Exercicios Basicos/Copia Netflix/Img/BackgroundNetflix.jpg');
+    background-image: url('/Img/BackgroundNetflix.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
